@@ -1,2 +1,8 @@
+
 # myrepo
-Repository for testing my Git/GitHub setup
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of myrepo is to ...
+
